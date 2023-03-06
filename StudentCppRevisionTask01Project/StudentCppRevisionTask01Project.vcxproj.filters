@@ -27,6 +27,9 @@
     <ClCompile Include="task03.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="taskX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tasks.h">
